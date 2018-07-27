@@ -324,8 +324,17 @@ work section
 #work .col-md-4 {
   padding: 28px;
   position: relative;
-  transition: all 0.4s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  height: 45%
 }
+
+#work .col-lg-4 {
+  padding: 28px;
+  position: relative;
+  transition: all 0.2s ease-in-out;
+  height: 370px
+}
+
 #work .col-md-4:hover {
   background-color: #ffffff;
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
@@ -692,7 +701,7 @@ footer p {
     #portfolio .col-md-4,
     #work .col-lg-4,
     #work .col-md-4 {
-      width: 33.333%;
+      width: 33.3%;
     },
   }
 }
@@ -700,7 +709,8 @@ footer p {
 @media (max-width: 991px) and (min-width: 767px) {
     #work .col-lg-4,
     #work .col-md-4 {
-      width:50%
+      width:50%;
+      height: 30%
   }
 }
 
