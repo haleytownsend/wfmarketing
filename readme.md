@@ -3,8 +3,6 @@
 
 Icons https://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
 
-Digital Team is free responsive Bootstrap v3.3.5 layout from http://www.tooplate.com. Images are from http://pixabay.com
-
 V1.0
   [ ] Navigation
     [ ] Logo

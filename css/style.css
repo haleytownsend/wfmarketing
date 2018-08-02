@@ -669,6 +669,10 @@ footer {
 footer p {
   padding-top: 20px;
 }
+.HTsignature {
+  font-size: 12px
+}
+
 .social-icon {
   padding: 0;
   margin: 0;
@@ -702,6 +706,9 @@ footer p {
     #work .col-lg-4,
     #work .col-md-4 {
       width: 33.3%;
+    },
+    { #work .col-lg-12 {
+      width: 50%}
     },
   }
 }
